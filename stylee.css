@@ -9,10 +9,6 @@ body {
     color: var(--branco-principal);
 } 
 
-img {
-    width: 100%;
-}
-
 *{
     margin: 0;
     padding: 0;
