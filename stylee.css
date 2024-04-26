@@ -9,7 +9,7 @@ body {
     color: var(--branco-principal);
 }
 *{
-    margin: 0;
+    margin: 40;
     padding: 10;
 }
 .principal{
